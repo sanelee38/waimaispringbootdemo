@@ -1,0 +1,4 @@
+com\sanelee\springclouddemo\repository\UserRepository.class
+com\sanelee\springclouddemo\AccountApp.class
+com\sanelee\springclouddemo\repository\AdminRepository.class
+com\sanelee\springclouddemo\controller\AccountHandler.class

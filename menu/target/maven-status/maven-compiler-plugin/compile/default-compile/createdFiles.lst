@@ -1,0 +1,4 @@
+com\sanelee\springclouddemo\MenuApp.class
+com\sanelee\springclouddemo\controller\MenuHandler.class
+com\sanelee\springclouddemo\repository\MenuRepository.class
+com\sanelee\springclouddemo\repository\TypeRepository.class

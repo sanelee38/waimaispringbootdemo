@@ -1,0 +1,5 @@
+com\sanelee\springclouddemo\OrderApp.class
+com\sanelee\springclouddemo\controller\OrderHandler.class
+com\sanelee\springclouddemo\repository\MenuRepository.class
+com\sanelee\springclouddemo\repository\OrderRepository.class
+com\sanelee\springclouddemo\repository\TypeRepository.class

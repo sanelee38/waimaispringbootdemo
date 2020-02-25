@@ -1,0 +1,9 @@
+com\sanelee\springclouddemo\fegin\OrderFegin.class
+com\sanelee\springclouddemo\fegin\UserFeign.class
+com\sanelee\springclouddemo\fegin\MenuFeign.class
+com\sanelee\springclouddemo\fegin\AccountFegin.class
+com\sanelee\springclouddemo\controller\UserHandler.class
+com\sanelee\springclouddemo\ClientApp.class
+com\sanelee\springclouddemo\controller\AccountHandler.class
+com\sanelee\springclouddemo\controller\MenuHandler.class
+com\sanelee\springclouddemo\controller\OrderHandler.class
